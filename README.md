@@ -24,21 +24,21 @@ The dataset draws from multiple resources in 5 different domains: literature, ne
 
 ### Preliminary Experiments
 
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/jo-valer/machine-translation-ladin-fascian/blob/main/preliminary.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/jo-valer/machine-translation-ladin-fascian/blob/main/preliminary.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 Evaluate the performance of the pre-trained models.
 
 ### Training
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/jo-valer/machine-translation-ladin-fascian/blob/main/finetune.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/jo-valer/machine-translation-ladin-fascian/blob/main/finetune.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 Fine-tune the pre-trained models on the Fassa Ladin-Italian-English parallel corpus, with the two approaches: **Pivot-based transfer learning** and **Multilingual translation**.
 
 ### Evaluation
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/jo-valer/machine-translation-ladin-fascian/blob/main/evaluate.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/jo-valer/machine-translation-ladin-fascian/blob/main/evaluate.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
