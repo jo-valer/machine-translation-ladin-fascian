@@ -7,8 +7,8 @@ This repo contains my final project for _Applied Natural Language Processing_ (U
 - [Data](#🗃️-data)
 - [Experiments](#🛠-experiments)
   - [Preliminary Experiments](#preliminary-experiments)
-  - [Transfer Learning Experiments](#transfer-learning-experiments)
-  - [Transfer Learning Across Domains](#transfer-learning-experiments)
+  - [Transfer Learning Experiments](#training)
+  - [Transfer Learning Across Domains](#evaluation)
 
 ## 👉 Introduction
 I construct the first Fassa Ladin-Italian-English parallel corpus, and train a machine translation model on it. More information can be found in the accompanying report.
