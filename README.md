@@ -14,7 +14,7 @@ This repo contains my final project for _Applied Natural Language Processing_ (U
 I construct the first Fassa Ladin-Italian-English parallel corpus, and train a machine translation model on it. More information can be found in the accompanying report.
 
 ### 🛠 English → Ladin demo
-You can try translating text from **English**/**Italian** to **Fassa Ladin** using the model [on Hugging Spaces](https://huggingface.co/spaces/jo-valer/fassa-ladin-machine-translation) 🦀
+You can try translating text from **English**/**Italian** to **Fassa Ladin** using the model [on Hugging Face Spaces](https://huggingface.co/spaces/jo-valer/fassa-ladin-machine-translation) 🦀
 
 
 ## Data
