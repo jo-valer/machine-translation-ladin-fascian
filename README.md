@@ -7,8 +7,8 @@ This repo contains my final project for _Applied Natural Language Processing_ (U
 - [Data](#data)
 - [Experiments](#experiments)
   - [Preliminary Experiments](#preliminary-experiments)
-  - [Transfer Learning Experiments](#training)
-  - [Transfer Learning Across Domains](#evaluation)
+  - [Finetuning](#finetuning)
+  - [Evaluation](#evaluation) (with Transfer learning across domains and Forgetting of previous knowledge)
 
 ## Introduction
 I construct the first Fassa Ladin-Italian-English parallel corpus, and train a machine translation model on it. More information can be found in the accompanying report.
@@ -30,7 +30,7 @@ The dataset draws from multiple resources in 5 different domains: literature, ne
 
 Evaluate the performance of the pre-trained models.
 
-### Training
+### Finetuning
 <a target="_blank" href="https://colab.research.google.com/github/jo-valer/machine-translation-ladin-fascian/blob/main/finetune.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
