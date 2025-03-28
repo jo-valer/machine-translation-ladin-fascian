@@ -4,7 +4,7 @@
 
 This repository contains code and data associated with the CLiC-it 2024 paper:
 
-Giovanni Valer, Nicolò Penzo and Jacopo Staiano. 2024. **Nesciun Lengaz Lascià Endò: Machine Translation for Fassa Ladin**. In _Proceedings of the Tenth Italian Conference on Computational Linguistics_, Pisa, Italy. [[cite]](#citation) [[paper]](https://ceur-ws.org/Vol-3878/104_main_long.pdf)
+Giovanni Valer, Nicolò Penzo and Jacopo Staiano. 2024. **Nesciun Lengaz Lascià Endò: Machine Translation for Fassa Ladin**. In _Proceedings of the Tenth Italian Conference on Computational Linguistics_, Pisa, Italy. [[cite]](#citation) [[paper]](https://aclanthology.org/2024.clicit-1.104.pdf)
 
 ## Overview
 - [Introduction](#introduction)
